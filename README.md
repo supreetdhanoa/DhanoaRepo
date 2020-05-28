@@ -30,7 +30,7 @@ The first lab will get us up and running with GitHub Actions and connecting to A
 - Run GitHub Actions
 
 [**Start Lab 1 - Connectivity**](docs/lab_1.md)
-
+testing
 ---
 
 ## Lab 2 - Deploy Infrastructure
